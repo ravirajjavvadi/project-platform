@@ -12,9 +12,9 @@ const Navbar = () => {
         <Link to="/" className="nav-item">Home</Link>
         <Link to="/request" className="nav-item">Request</Link>
         
-       // Replace the old localhost:5174 link with your new Netlify Admin URL
+       
 <a 
-  href="https://project-platform-admin.netlify.app" 
+  href="https://adminoff.netlify.app" 
   className="admin-btn"
   target="_blank" 
   rel="noopener noreferrer"
